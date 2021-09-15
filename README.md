@@ -1,9 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hey ✌️, I'm Abhay</h1>
+<h3 align="center">Web & App Developer</h3>
 
 <!--
 **KANDHVE950/KANDHVE950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :octocat: About me
+
+- I am a Final year student persuing **Bachelors of Technology** course in Civil Engineering from **IIT Guwahati.**
+- My preferred programming language is **C/C++, Python, Javascript**. 
+- Worked on development of **Techniche Website**,(https://techniche.org) an annual techno-management fest of IIT Guwahati
+- 📫 How to reach me: https://www.linkedin.com/in/kandhve950
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANDHVE950)](https://github.com/KANDHVE950/github-readme-stats)
+<br/>
+![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=KANDHVE950)
